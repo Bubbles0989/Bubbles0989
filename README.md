@@ -73,11 +73,12 @@
 <p align="left">I'm Jasper!<br><br>- 🔭 Software engineer.<br>- 📚 Always learning.<br>- ⚡ 1260.1 hours in Krita.<br>- 🖥️ Avid gamer.<br>- :space_invader: Hololive Stan.</p> 
 
 ###
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bubbles0989&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bubbles0989&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Bubbles0989&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Bubbles0989&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bubbles0989&radius=16&theme=github-dark&area=true&order=5&custom_title=%22I%20take%20weekends%20off%22%20Contributions&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 

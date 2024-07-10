@@ -70,7 +70,7 @@
 
 <img align="right" height="200" src="https://64.media.tumblr.com/3fc84540c90565309307c4d5f1a150c4/6ba0d3681a0d7d5c-dc/s250x400/dcf242488a83da4e0cfaf5b57ac8c01e7b66b59f.jpg"  />
 
-<p align="left">I'm Jasper!<br><br>- 🔭 Software engineer.<br>- 📚 Always learning.<br>- ⚡ 1297.3 hours in Krita.<br>- 🖥️ Avid gamer.<br>- :space_invader: Hololive Stan.</p> 
+<p align="left">I'm Jasper!<br><br>- 🔭 Software engineer.<br>- 📚 Always learning.<br>- ⚡ 1300 hours in Krita.<br>- 🖥️ Avid gamer.<br>- :space_invader: Hololive Stan.</p> 
 
 ###
 <br>

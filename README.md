@@ -71,7 +71,7 @@
 <img align="right" height="200" src="https://64.media.tumblr.com/3fc84540c90565309307c4d5f1a150c4/6ba0d3681a0d7d5c-dc/s250x400/dcf242488a83da4e0cfaf5b57ac8c01e7b66b59f.jpg"  />
 <img align="right" height="200" src="https://data.typeracer.com/misc/badge?user=bubbles0989"  />
 
-<p align="left">I'm Jasper!<br><br>- 🔭 <a href='https://www.linkedin.com/in/jasper-smith-813742196/'>Software engineer.</a><br>- 📚 Always learning.<br>- ⚡ 1662.3 hours in Krita.<br>- 🖥️ Avid gamer.<br>- :space_invader: Hololive Stan.<br>- ❔ Most used languages chart is seriously broken,<br>- ❓ I keep it around because its funny.<br>- ⚓ Long Live Minato Aqua (08.28.24)<br>- :yellow_heart: She's going the AmeWay (09.30.24)<br>- ❤️ HoloX will always be 5 (01.26.25)<br>- 💚 Please stay here with me (01.03.25)</p> 
+<p align="left">I'm Jasper!<br><br>- 🔭 <a href='https://www.linkedin.com/in/jasper-smith-813742196/'>Software engineer.</a><br>- 📚 Always learning.<br>- ⚡ 1689.7 hours in Krita.<br>- 🖥️ Avid gamer.<br>- :space_invader: Hololive Stan.<br>- ❔ Most used languages chart is seriously broken,<br>- ❓ I keep it around because its funny.<br>- ⚓ Long Live Minato Aqua (08.28.24)<br>- :yellow_heart: She's going the AmeWay (09.30.24)<br>- ❤️ HoloX will always be 5 (01.26.25)<br>- 💚 Please stay here with me (01.03.25)</p> 
 
 ###
 <br>
